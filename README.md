@@ -20,7 +20,11 @@ Non-parametric learning algorithm − KNN is also a non-parametric learning algo
 1.Load the iris CSV file which is downloaded from the kaggle.</br>
 2.Preprocess the data by converting the string column to integer column and then rescale it.</br>
 3.Determine the min and Max values for each columns and then split the dataset into k folds then calculate the Euclidean distance between two vectors and then print the accuracy of our model.
-
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Program:
 ```
 /*
